@@ -1,0 +1,607 @@
+# Webalizer V2.23-08 Incremental Data - 12/07/2020 14:19:33
+2020 12 7 14 19 33
+968 914 83 43 19 48 9873636 145 73 0
+8 1 140 1 7
+25 24 105535 6 24 5
+93 88 858161 8 12 6
+5 5 12056 5 4 4
+239 228 2608274 13 19 13
+288 276 2893120 27 52 26
+223 204 2417393 23 21 12
+95 89 979097 8 13 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 3655 1
+2 2 5918 2
+26 25 307705 1
+5 4 7205 3
+4 4 39688 2
+34 33 232761 6
+31 30 322023 4
+0 0 0 0
+57 54 685013 3
+74 70 737118 8
+30 29 319814 2
+42 38 399453 7
+28 27 318360 2
+79 75 662356 26
+62 57 642149 7
+64 61 655270 11
+228 215 2511475 16
+0 0 0 0
+2 2 2280 1
+0 0 0 0
+1 1 3662 1
+1 1 2256 1
+63 56 675242 9
+134 129 1340233 32
+0
+0
+0
+914
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+53
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/source/assets/dest/rs-plugin/js/jquery.themepunch.tools.min.js
+0 31 0 1029107 0 0
+/source/assets/dest/css/bootstrap.min.css
+0 31 0 545815 0 0
+/source/assets/dest/vendors/animo/Animo.js
+0 31 0 141132 0 0
+/source/assets/dest/js/wow.min.js
+0 30 0 48300 0 0
+/loai-san-pham/2
+0 4 0 15522 1 0
+/source/assets/dest/css/animate.css
+0 31 0 128499 0 0
+/lien-he
+0 3 0 12786 1 0
+/loai-san-pham/12
+0 1 0 3880 0 0
+/source/assets/dest/js/jquery.js
+0 32 0 1063899 0 0
+/source/assets/dest/vendors/colorbox/example3/colorbox.css
+0 31 0 44106 0 0
+/source/assets/dest/fonts/fontawesome-webfont.woff2
+0 29 0 2247993 0 0
+/source/assets/dest/css/font-awesome.css
+0 30 0 233340 0 0
+/favicon.ico
+0 23 0 8073 0 0
+/loai-san-pham/1
+0 6 0 23310 0 0
+/source/assets/dest/vendors/dug/dug.js
+0 30 0 94530 0 0
+/source/assets/dest/rs-plugin/css/responsive.css
+0 30 0 42300 0 0
+/source/assets/dest/vendors/jqueryui/jquery-ui-1.10.4.custom.min.js
+0 31 0 556386 0 0
+/loai-san-pham/8
+0 1 0 3887 0 0
+/source/assets/dest/css/csscc.css
+0 30 0 24570 0 0
+/loai-san-pham/6
+0 2 0 7756 0 0
+/dang-nhap
+0 1 0 3767 0 0
+/loai-san-pham/9
+0 1 0 3872 0 0
+/loai-san-pham/4
+0 6 0 23324 0 0
+/search
+0 2 0 7170 0 0
+/source/assets/dest/images/icon.jpg
+0 32 0 545824 0 0
+/loai-san-pham/7
+0 1 0 3867 0 0
+/loai-san-pham/5
+0 1 0 3869 0 0
+/dang-ki
+0 2 0 7383 1 0
+/source/assets/dest/css/style.css
+0 30 0 488190 0 0
+/source/assets/dest/js/bootstrap.min.js
+0 31 0 250883 0 0
+/loai-san-pham/10
+0 1 0 3877 0 0
+/source/assets/dest/vendors/bxslider/jquery.bxslider.min.js
+0 30 0 165900 0 0
+/source/assets/dest/vendors/colorbox/jquery.colorbox-min.js
+0 31 0 156767 0 0
+/
+0 108 0 335833 70 8
+/source/assets/dest/css/mystyle.css
+0 30 0 18990 0 0
+/source/assets/dest/rs-plugin/js/jquery.themepunch.revolution.min.js
+0 31 0 809937 0 0
+/source/assets/dest/css/cssdb.css
+0 31 0 31819 0 0
+/robots.txt
+0 13 0 2227 0 0
+/source/assets/dest/rs-plugin/css/settings.css
+0 31 0 231302 0 0
+/source/assets/dest/js/scripts.min.js
+0 32 0 94608 0 0
+/source/assets/dest/js/waypoints.min.js
+0 31 0 93279 0 0
+/loai-san-pham/3
+0 1 0 3869 0 0
+/loai-san-pham/11
+0 1 0 3874 0 0
+# End Of Table - urls
+# -sites- (monthly)
+14.177.154.160
+0 30 29 319060 1 1607320920
+/
+14.231.220.164
+0 26 25 307699 1 1607186022
+/
+8.21.11.112
+0 27 26 308048 1 1607098997
+/
+171.224.83.46
+0 29 27 317988 1 1607272353
+/
+171.234.206.10
+0 30 28 321842 1 1607100713
+/
+82.202.161.133
+0 1 1 3858 1 1606969200
+/
+54.36.148.165
+0 7 7 17036 7 1607342157
+/dang-ki
+173.252.127.116
+0 2 2 1922 1 1607176758
+/
+222.252.116.183
+0 29 27 317980 1 1607166195
+/
+113.23.44.211
+0 32 28 338245 2 1607340621
+/lien-he
+54.36.148.157
+0 1 1 24 0 0
+-
+54.36.148.123
+0 1 1 2256 1 1606823330
+/
+31.13.115.21
+0 18 18 196867 1 1607255813
+/
+14.189.108.228
+0 26 25 307674 1 1607211419
+/
+31.13.115.18
+0 2 2 77868 0 0
+-
+13.66.139.103
+0 3 3 37229 0 0
+-
+209.99.175.41
+0 20 19 79307 1 1606865095
+/loai-san-pham/7
+42.113.3.176
+0 29 28 315609 1 1607187239
+/loai-san-pham/4
+113.23.11.131
+0 27 26 308048 1 1607101003
+/
+144.76.118.82
+0 2 2 3616 1 1607253113
+/
+49.12.126.16
+0 1 1 3655 1 1607041480
+/
+54.36.148.198
+0 1 1 2256 1 1607020806
+/
+173.252.127.15
+0 2 2 1922 1 1607176757
+/
+123.20.137.232
+0 28 26 317633 1 1607122649
+/
+113.177.243.46
+0 29 28 315607 1 1607123035
+/
+31.13.127.5
+0 1 1 17057 0 0
+-
+113.180.28.176
+0 33 32 329944 1 1607211849
+/
+157.55.39.162
+0 1 1 3668 1 1606886371
+/
+173.252.87.6
+0 1 1 957 1 1607176749
+/
+173.252.87.14
+0 1 1 955 1 1607176753
+/
+52.211.58.58
+0 4 0 892 0 0
+-
+54.224.224.80
+0 1 1 10181 1 1606862077
+/
+173.252.87.24
+0 1 1 963 1 1607176751
+/
+13.66.139.15
+0 4 4 74495 0 0
+-
+199.127.56.236
+0 26 25 307705 1 1607220294
+/
+31.13.115.12
+0 6 6 27037 0 0
+-
+54.36.149.103
+0 1 1 2256 1 1607333199
+/
+54.36.148.231
+0 1 1 24 0 0
+-
+173.252.127.117
+0 2 2 1918 1 1607176760
+/
+173.252.127.25
+0 2 2 1914 1 1607176755
+/
+54.36.148.92
+0 1 1 24 0 0
+-
+74.120.14.38
+0 1 1 3865 1 1607099798
+/
+113.23.104.65
+0 33 28 343752 1 1607292311
+/
+173.252.127.11
+0 1 1 959 1 1607176760
+/
+173.252.127.19
+0 1 1 965 1 1607176752
+/
+14.224.130.142
+0 27 26 308269 1 1607170106
+/loai-san-pham/2
+54.36.148.138
+0 1 1 296 0 0
+-
+117.1.96.129
+0 29 28 315595 1 1607176698
+/loai-san-pham/1
+173.252.95.112
+0 2 2 1266 1 1607225554
+/
+31.13.127.4
+0 1 1 17057 0 0
+-
+173.252.87.19
+0 1 1 969 1 1607176756
+/
+18.220.35.114
+0 29 28 221460 1 1606888755
+/
+54.36.148.65
+0 1 1 24 0 0
+-
+54.36.148.64
+0 1 1 2256 1 1607138817
+/
+113.170.29.79
+0 31 28 327928 1 1607245351
+/
+203.119.9.50
+0 1 1 10091 1 1606826946
+/
+54.36.148.107
+0 1 1 4006 1 1607350773
+/lien-he
+42.113.93.195
+0 26 25 307697 1 1607243127
+/
+173.252.127.12
+0 1 1 957 1 1607176759
+/
+113.177.253.49
+0 31 29 325758 1 1607180004
+/loai-san-pham/2
+173.252.87.11
+0 1 1 961 1 1607176750
+/
+173.252.95.28
+0 1 1 3659 1 1607225556
+/
+154.51.131.142
+0 1 1 3676 1 1606863130
+/
+42.112.135.146
+0 34 32 337198 1 1607182326
+/
+103.199.56.66
+0 28 27 311710 1 1607334176
+/
+34.244.98.154
+0 1 1 3662 1 1607200641
+/
+31.13.127.119
+0 1 1 17057 0 0
+-
+27.71.105.40
+0 26 25 307701 1 1607125448
+/
+171.253.133.252
+0 27 26 308044 1 1607098979
+/
+173.252.127.18
+0 1 1 959 1 1607176754
+/
+31.13.115.24
+0 1 0 6272 0 0
+-
+54.36.148.164
+0 1 1 24 0 0
+-
+54.36.149.74
+0 1 1 24 0 0
+-
+192.241.150.153
+0 1 1 3662 1 1606957866
+/
+113.190.44.30
+0 28 26 317606 1 1607099534
+/
+173.252.87.17
+0 3 3 2875 1 1607176755
+/
+66.249.71.120
+0 3 3 39714 0 0
+-
+66.249.71.119
+0 11 11 54255 2 1607076497
+/
+54.36.148.187
+0 1 1 2256 1 1607289514
+/
+58.186.118.106
+0 28 27 311939 1 1606917831
+/loai-san-pham/4
+14.172.77.54
+0 30 27 327565 1 1607260203
+/
+113.160.14.22
+0 29 28 315816 1 1606921687
+/loai-san-pham/1
+207.46.13.166
+0 2 2 592 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+14.177.154.160
+0 30 29 319060 1 1607320920
+/
+54.36.148.165
+0 1 1 3500 1 1607342157
+/dang-ki
+113.23.44.211
+0 32 28 338245 2 1607340621
+/lien-he
+54.36.149.103
+0 1 1 2256 1 1607333199
+/
+54.36.148.92
+0 1 1 24 0 0
+-
+54.36.148.138
+0 1 1 296 0 0
+-
+54.36.148.107
+0 1 1 4006 1 1607350773
+/lien-he
+103.199.56.66
+0 28 27 311710 1 1607334176
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://wbpc.vn/lien-he
+0 1
+http://wbpc.vn/
+0 734
+http://wbpc.vn/loai-san-pham/1
+0 3
+http://wbpc.vn/search
+0 1
+http://wbpc.vn/source/assets/dest/rs-plugin/css/responsive.css
+0 24
+http://wbpc.vn/loai-san-pham/2
+0 25
+http://wbpc.vn
+0 19
+https://www.google.com/
+0 2
+- (Direct Request)
+0 86
+http://m.facebook.com
+0 2
+https://lm.facebook.com/
+0 4
+http://m.facebook.com/
+0 2
+http://wbpc.vn/source/assets/dest/css/font-awesome.css
+0 19
+http://wbpc.vn/loai-san-pham/4
+0 3
+http://wbpc.vn/loai-san-pham/6
+0 1
+https://l.facebook.com/
+0 10
+android-app://m.facebook.com/
+0 1
+http://l.facebook.com/l.php
+0 7
+http://www.wbpc.vn/
+0 24
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+0 27
+Mozilla/5.0 (Linux; Android 9; SM-G950U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.86 Mobile Safari/537.36
+0 33
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E
+0 31
+Mozilla/5.0 (Linux; Android 9; Mi MIX 2 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 28
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;F
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 1
+Mozilla/5.0 (Linux; Android 9; SM-A505F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 29
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 88
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;F
+0 28
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile S
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-G960F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 27
+TprAdsTxtCrawler/1.0
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.140 Mobile 
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 7
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.
+0 28
+Mozilla/5.0 (Linux; Android 10; Note9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+0 30
+adreview/1.0
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 13
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 85
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBA
+0 32
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 1
+Googlebot-Image/1.0
+0 2
+facebookexternalua
+0 20
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3450.0 Iron Safari/537.36 Puffin/7.5.3.392 E
+0 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBA
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBD
+0 26
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Saf
+0 65
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 28
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;F
+0 28
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;F
+0 26
+Python-urllib/3.7
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E14
+0 33
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)' Chrome/59.0.3071.115 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 29
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBA
+0 30
+Internet-structure-research-project-bot
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 27
+Mozilla/5.0 (Linux; Android 10; Joy 3 Build/QKQ1.200311.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84
+0 27
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
